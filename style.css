@@ -1,3 +1,9 @@
+:root {
+    --bgColor: #b19efd;
+    --bgColor2: #000;
+    --accentColor: #c6dea6;
+}
+
 html, body {
     height: 100%;
     margin: 0;
